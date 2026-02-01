@@ -19,17 +19,6 @@ Each unit exists within a neighborhood with a defined amenity level. Agents inte
 - Models household movement based on utility.
 - Visualizes agent behavior and rent trends.
 
-## Visualizations
-Here are example plots you should generate and save as images:
-
-### Rent Comparison by Room Type in Two States
-![Rent Comparison](images/rent_comparison_two_states.png)
-
-### Rent Growth Over Time
-![Rent Growth](images/rent_growth_over_time.png)
-
-These should be saved in a folder called `images/` inside your repository.
-
 ## How to Run
 1. Open `Project3_ABM.ipynb` in Jupyter.
 2. Run each cell from top to bottom.
